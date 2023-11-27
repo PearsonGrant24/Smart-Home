@@ -1,0 +1,30 @@
+*SmartHome *
+
+This is a smart Home Concept tha is 
+
+An Android smarthome application(SmartHomeSystem.apk file) is provided here, it was developed using MIT appInventor. its easy to install just install the apk file on your android phone.
+
+To open the source code of this apk application,
+its easy just use MIT appinventor 'https://sourceforge.net/projects/ai2u/files/ai2u%204.6/Portable/AI2U-portable-v4.6-64bit.zip/download'
+
+1. Unzip the AI2U4364 file and then open AI2U application.
+2. once it opens start 'All AI2U server' at the top, then click'start invent'.
+3. Next, click the 'Click Here to use your Google Account to login', just proceed with the started email address 'test@example.com' or use your own.
+4  Finally, click on project, on the top bar, and then 'import project .aia from my computer. Click on it and import the SmartHomeSystem.aia file, and click ok.
+
+
+Images for the code blocks are given in the 'folder codeblocks'
+
+
+Requirements: 
+
+Aduino Board
+HC-05 Bluetooth module
+Bread board
+Jumper cables
+Temperature and humidity sensor
+
+
+The mobile app was developed using MIT Appinventor:
+How to install App Inventor:
+Arizona State university (Glendale, AZ)
